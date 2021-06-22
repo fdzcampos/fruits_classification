@@ -1,1 +1,4 @@
-# fruits_classification
+# Fruits Classification
+
+## Dataset 
+https://www.kaggle.com/moltean/fruits
